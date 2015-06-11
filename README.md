@@ -3,7 +3,7 @@
 A sample Java webapp using [Spark](http://sparkjava.com/).
 
 ## Running Locally
-# using Heroku Toolbelt 
+### using Heroku Toolbelt 
 
 Make sure you have Java and Maven installed.  Also, install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 
@@ -16,7 +16,7 @@ $ foreman start web
 
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
-# using Docker only
+### using Docker only
 
 Make sure you have [Docker](https://docs.docker.com/installation/) installed.
 
@@ -29,7 +29,7 @@ $ docker port spark-sample
 ```
 
 
-# using Heloku Toolbelt + Docker
+### using Heloku Toolbelt + Docker
 
 Make sure you have [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
 
@@ -41,7 +41,7 @@ $ heroku docker:start
 ```
 
 ## Deploying to Heroku
-# using Heorku Toolbelt
+### using Heorku Toolbelt
 
 ```sh
 $ heroku create
