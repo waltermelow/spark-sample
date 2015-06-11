@@ -36,3 +36,5 @@ $ heroku open
 [Continuous Deployment with CircleCI and Heroku: Part 1](https://www.youtube.com/watch?v=Hfs_1yuWDf4)
 
 [Getting started with Spark and Docker](http://sparktutorials.github.io/2015/04/14/getting-started-with-spark-and-docker.html)
+
+[Local Development with Docker (heroku)](https://devcenter.heroku.com/articles/introduction-local-development-with-docker)

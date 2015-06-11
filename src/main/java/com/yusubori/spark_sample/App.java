@@ -14,7 +14,7 @@ public class App {
 		port(Integer.valueOf(System.getenv("PORT")));
 		
 		// routes
-		get("/", (req,res) -> "This is java web application sample.");
+		get("/", (req,res) -> "This is java web application sample with docker.");
 		get("/hello", (req, res) -> "Hello World!!!");
 	}
 }
