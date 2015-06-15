@@ -51,7 +51,12 @@ $ heroku open
 
 ## Reference
 [Continuous Deployment with Heroku](https://circleci.com/docs/continuous-deployment-with-heroku)
+
 [Deploying Java Apps on Heroku](https://devcenter.heroku.com/articles/deploying-java)
+
 [Getting Started with Java on Heroku](https://devcenter.heroku.com/articles/getting-started-with-java) 
+
 [Getting started with Spark and Docker](http://sparktutorials.github.io/2015/04/14/getting-started-with-spark-and-docker.html)
+
 [Local Development with Docker (heroku)](https://devcenter.heroku.com/articles/introduction-local-development-with-docker)
+
